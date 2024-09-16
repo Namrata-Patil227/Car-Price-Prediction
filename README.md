@@ -1,2 +1,2 @@
 # Car-Price-Prediction
-Car Price Prediction using Decision Tree Regressor model
+Given a dataset of used cars containing about car like year of manufacturing, company_name, model, kms_driven, fuel type, etc, we employed these factors to predict the prices of used cars using Machine Learning Regression Model. The project involved preprocessing of data, cleaning it, visualizing the cleaned data to get insights, and finally applying the Decision Tree Regressor model. To develop web application we use Flask Django framework.
